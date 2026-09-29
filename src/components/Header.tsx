@@ -23,7 +23,7 @@ export function Header() {
         <Link href="/" className="brand" onClick={() => setOpen(false)}>
           <LogoMark />
           <span>
-            <span className="brand-name">Bahtraku</span>
+            <span className="brand-name">BAHTRAKU</span>
             <span className="brand-sub">Bahasa Transformasi Suku</span>
           </span>
         </Link>
